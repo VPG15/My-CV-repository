@@ -19,7 +19,7 @@ In carrying out this project, I implemented solutions for the clearest possible 
 
 Repository Content
 * **VladPIRVAN_CV.twbx**: The Tableau source file (Packaged Workbook) containing both the data and the visualization.
-* * **my_data.xlsx**: The structured Excel dataset that I used as a base.
+* **my_data.xlsx**: The structured Excel dataset that I used as a base.
 
  Contact & Links
 * **Tableau Public**: [My Profile](https://public.tableau.com/app/profile/vlad.pirvan/vizzes)
