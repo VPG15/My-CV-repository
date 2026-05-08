@@ -13,9 +13,9 @@ Here i created an interactive tool in Tableau that visualizes my experience, fro
 Technical Details 
 In carrying out this project, I implemented solutions for the clearest possible visualization:
 
-* **Dual Axis & Synchronization**: Synchronization of custom icons (LinkedIn, Gmail, Tableau) with the timelines of the Gantt chart.
+* **Dual Axis & Synchronization**: Synchronization of custom icons (Bucharest University of Economic Studies (ASE) and DSE (department from my master) with the timelines of the Gantt chart.
 * **Custom Shapes**: Integrated custom logos to transform a classic table into a modern list of "Targeted Jobs".
-* **Calculated Fields**: Created a calculated field to synchronize the icons with specified links. Developed a calculated field using the DATEDIFF function to determine the duration of each activity in days, enabling the precise scaling of Gantt bars along the timeline
+* **Calculated Fields**: Created a calculated field to synchronize the icons with specified links. Developed a calculated field using the DATEDIFF function to determine the duration of each activity in days, enabling the precise scaling of Gantt bars along the timeline.
 
 Repository Content
 * **VladPIRVAN_CV.twbx**: The Tableau source file (Packaged Workbook) containing both the data and the visualization.
