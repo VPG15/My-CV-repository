@@ -19,6 +19,7 @@ In carrying out this project, I implemented solutions for the clearest possible 
 
 Repository Content
 * **VladPIRVAN_CV.twbx**: The Tableau source file (Packaged Workbook) containing both the data and the visualization.
+* **VladPIRVAN_CV_dashboard.png**: Picture of the dashboard.
 * **my_data.xlsx**: The structured Excel dataset that I used as a base.
 
  Contact & Links
