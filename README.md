@@ -4,7 +4,7 @@ Welcome to my repository! Here I present my skills in the field of data analysis
 
 Here i created an interactive tool in Tableau that visualizes my experience, from my bachelor's degree in statistics to my current career goals.
 
-**[👉 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/vlad.pirvan/viz/CV_17781956479450/Dashboard1)**
+**[👉 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/vlad.pirvan/viz/MyCV_17786741300100/Dashboard1)**
 
 ![Dashboard Preview](VladPIRVAN_CV_dashboard.png)
 
